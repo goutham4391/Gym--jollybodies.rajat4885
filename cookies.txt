@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.jollybodiesfitness.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1667038363|pwNKCKg_2gxh
+www.jollybodiesfitness.com	TRUE	/	FALSE	1999999999	hs	2093777129
+www.jollybodiesfitness.com	TRUE	/	FALSE	1999999999	svSession	fb9bab0f0a6788bd40d70bd2372a7d208068844cddb193f0c9a52e3c1abe437e096c53ba74bfb1defe06f3306a213f711e60994d53964e647acf431e4f798bcd2c2ae598a533f4380a6657f19972f197d217ab7542aecbdd887434e27d7be3f790a76c8d384552d6b75742aced209629f02ccfb899270eac5bd744a2df0e8e0f04fee6ffc2a3a3a48a53d17f5d38c708
+www.jollybodiesfitness.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.jollybodiesfitness.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=none
+
